@@ -5,13 +5,13 @@
 [![Downloads][downloads-shield]][downloads-url]
 [![Issues][issues-shield]][issues-url]
 [![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-cds-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br>
 <div align="center">
   <a href="https://github.com/ColDogStudios/template-repo">
-    <img src="images/ColDogStudiosLogo.png" alt="Logo" width="500">
+    <img src="assets/images/ColDogStudiosLogo.png" alt="Logo" width="500">
   </a>
 
   <p align="center">
